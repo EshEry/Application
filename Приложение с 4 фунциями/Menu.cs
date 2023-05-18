@@ -77,26 +77,26 @@ namespace MultiFunctionApp
             Console.WriteLine($"Случайное число: {randomNumber}");
         }
 
-        //static void TemperatureConverter()
-        //{
-        //    Console.WriteLine("Выберите тип конвертации: C - Фаренгейт в Цельсий, F - Цельсий в Фаренгейт");
-        //    string conversionType = Console.ReadLine();
+        static void TemperatureConverter()
+        {
+            Console.WriteLine("Выберите тип конвертации: C - Фаренгейт в Цельсий, F - Цельсий в Фаренгейт");
+            string conversionType = Console.ReadLine();
 
-        //    if (conversionType == "C")
-        //    {
-        //        Console.WriteLine("Введите значение в градусах Фаренгейта: ");
-        //        double fahrenheit = Convert.ToDouble(Console.ReadLine());
-        //        double celsius = (fahrenheit - 32) * 5 / 9;
-        //        Console.WriteLine($"Результат: {celsius} градусов Цельсия");
-        //    }
-        //    else if (conversionType == "F")
-        //    {
-        //        Console.WriteLine("Введите значение в градусах Цельсия: ");
-        //        double celsius = Convert.ToDouble(Console.ReadLine());
-        //        double fahrenheit = (celsius * 9 / 5) + 32;
-        //        Console.WriteLine($"Результат: {fahrenheit} градусов Фаренгейта");
-        //    }
-        //}
+            if (conversionType == "C")
+            {
+                Console.WriteLine("Введите значение в градусах Фаренгейта: ");
+                double fahrenheit = Convert.ToDouble(Console.ReadLine());
+                double celsius = (fahrenheit - 32) * 5 / 9;
+                Console.WriteLine($"Результат: {celsius} градусов Цельсия");
+            }
+            else if (conversionType == "F")
+            {
+                Console.WriteLine("Введите значение в градусах Цельсия: ");
+                double celsius = Convert.ToDouble(Console.ReadLine());
+                double fahrenheit = (celsius * 9 / 5) + 32;
+                Console.WriteLine($"Результат: {fahrenheit} градусов Фаренгейта");
+            }
+        }
 
         //static void ExpenseCalculator()
         //{
