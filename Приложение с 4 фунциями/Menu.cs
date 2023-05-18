@@ -70,12 +70,12 @@ namespace MultiFunctionApp
             }
         }
 
-        //static void RandomNumberGenerator()
-        //{
-        //    Random rand = new Random();
-        //    int randomNumber = rand.Next(1, 101);
-        //    Console.WriteLine($"Случайное число: {randomNumber}");
-        //}
+        static void RandomNumberGenerator()
+        {
+            Random rand = new Random();
+            int randomNumber = rand.Next(1, 101);
+            Console.WriteLine($"Случайное число: {randomNumber}");
+        }
 
         //static void TemperatureConverter()
         //{
