@@ -98,26 +98,26 @@ namespace MultiFunctionApp
             }
         }
 
-        //static void ExpenseCalculator()
-        //{
-        //    Console.WriteLine("Введите бюджет: ");
-        //    double budget = Convert.ToDouble(Console.ReadLine());
+        static void ExpenseCalculator()
+        {
+            Console.WriteLine("Введите бюджет: ");
+            double budget = Convert.ToDouble(Console.ReadLine());
 
-        //    double totalExpenses = 0;
-        //    while (true)
-        //    {
-        //        Console.WriteLine("Введите расход: ");
-        //        double expense = Convert.ToDouble(Console.ReadLine());
-        //        totalExpenses += expense;
+            double totalExpenses = 0;
+            while (true)
+            {
+                Console.WriteLine("Введите расход: ");
+                double expense = Convert.ToDouble(Console.ReadLine());
+                totalExpenses += expense;
 
-        //        if (totalExpenses >= budget)
-        //        {
-        //            Console.WriteLine("Вы исчерпали бюджет!");
-        //            break;
-        //        }
+                if (totalExpenses >= budget)
+                {
+                    Console.WriteLine("Вы исчерпали бюджет!");
+                    break;
+                }
 
-        //        Console.WriteLine($"Ваш текущий бюджет: {budget - totalExpenses}");
-        //    }
-        //}
+                Console.WriteLine($"Ваш текущий бюджет: {budget - totalExpenses}");
+            }
+        }
     }
 }
