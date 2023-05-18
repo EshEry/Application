@@ -1,0 +1,15 @@
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.csproj.AssemblyReference.cache
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.AssemblyInfoInputs.cache
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.AssemblyInfo.cs
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\bin\Debug\net6.0\Приложение с 4 фунциями.exe
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\bin\Debug\net6.0\Приложение с 4 фунциями.deps.json
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\bin\Debug\net6.0\Приложение с 4 фунциями.runtimeconfig.json
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\bin\Debug\net6.0\Приложение с 4 фунциями.dll
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\bin\Debug\net6.0\Приложение с 4 фунциями.pdb
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.dll
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\refint\Приложение с 4 фунциями.dll
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.pdb
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\Приложение с 4 фунциями.genruntimeconfig.cache
+C:\Users\public.COPP\source\repos\Приложение с 4 фунциями\Приложение с 4 фунциями\obj\Debug\net6.0\ref\Приложение с 4 фунциями.dll
